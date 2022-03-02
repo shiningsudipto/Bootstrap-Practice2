@@ -49,3 +49,19 @@ background-image: linear-gradient(to right, rgb(255, 220, 66) 0, rgb(224, 146, 0
 .cat-3{
     background-image: linear-gradient(to right, rgb(255, 116, 92) 0, rgb(241, 0, 20) 100%)
 }
+
+/* Shoes */
+.col .card{
+    border: none;
+    border-radius: 10px;
+}
+
+/* Backpack */
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#backpack .card{
+    border-radius: 10px;
+}
